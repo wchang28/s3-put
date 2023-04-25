@@ -2,9 +2,8 @@
   "name": "s3-put",
   "version": "1.0.0",
   "description": "S3 Put",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Wen Chang",
   "license": "ISC",
