@@ -1,3 +1,5 @@
+
+// node app.js {fileToUpload} s3://{Bucket}/path/to/key
 const url = require('url');
 const AWS = require('aws-sdk');
 const fs = require('fs');
